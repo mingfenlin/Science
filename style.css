@@ -28,6 +28,7 @@ h1, h2, h3 {
 }
 #nav {
   width: 180px;
+  height: 600px;
   float: left;
 }
 #nav ul {
@@ -38,8 +39,13 @@ h1, h2, h3 {
   font-weight: bold;
 }
 #main {
-  width: 600px;
+  width: 800px;  
+  height: 150px;
   float: right;
+}
+
+#category {
+  position: relative;
 }
 #footer {
   padding: 10px;
